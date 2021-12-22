@@ -1,5 +1,7 @@
 <h2> emoji </h2>
 
+[emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 :earth_asia: 
 
 :zap: 
