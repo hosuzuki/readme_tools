@@ -16,3 +16,20 @@
 
 :pushpin:
 
+:closed_book:
+
+:blue_book:
+
+:bulb:
+
+:heavy_check_mark:
+
+:white_medium_square:
+
+:star:
+
+:white_circle:
+
+:white_small_square:
+
+:heavy_minus_sign:
