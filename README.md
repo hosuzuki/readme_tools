@@ -1,3 +1,9 @@
+<h2> line </h2>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
 <h2> emoji </h2>
 
 [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
@@ -6,8 +12,7 @@
 
 :zap: 
 
+:round_pushpin:
 
-<h2> line </h2>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+:pushpin:
 
