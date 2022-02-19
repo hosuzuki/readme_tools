@@ -6,11 +6,35 @@
 
 <h2> emoji </h2>
 
-[emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
-
 :earth_asia: 
 
+:blue_book:
+
+:globe_with_meridians:
+
+:cyclone:
+
+<br>
+
+
 :zap: 
+
+:trophy:
+
+:star:
+
+:bulb:
+
+:crown:
+
+:key:
+
+:full_moon:
+
+:crescent_moon:
+
+<br>
+
 
 :round_pushpin:
 
@@ -18,18 +42,40 @@
 
 :closed_book:
 
-:blue_book:
+:apple:
 
-:bulb:
+:dart:
+
+:exclamation:
+
+<br>
+
+
+:tea:
+
+:green_apple:
+
+:green_book:
+
+:evergreen_tree:
+
+:palm_tree:
+
+:christmas_tree:
+
+<br>
+
+
+:heavy_minus_sign:
 
 :heavy_check_mark:
 
 :white_medium_square:
 
-:star:
+:computer:
 
-:white_circle:
+:eyes:
 
-:white_small_square:
+<br>
 
-:heavy_minus_sign:
+[emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
