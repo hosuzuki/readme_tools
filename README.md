@@ -38,6 +38,8 @@
 
 :round_pushpin:
 
+:triangular_flag_on_post:
+
 :pushpin:
 
 :closed_book:
@@ -47,6 +49,10 @@
 :dart:
 
 :exclamation:
+
+:jp:
+
+:100:
 
 <br>
 
@@ -74,6 +80,8 @@
 :computer:
 
 :eyes:
+
+:coffee:
 
 <br>
 
