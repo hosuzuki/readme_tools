@@ -85,6 +85,8 @@
 
 :coffee:
 
+:8ball:
+
 <br>
 
 [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
